@@ -23,3 +23,7 @@ Install JupyterLab or Jupyter Notebook
 ## How to run?
 - Open ipynb file on Jupyter <br/>
 - Run the notebook file. <br/>
+
+## Project Members
+- Sagar Pathak <br/>
+- Bidhya Shrestha <br/>
