@@ -1,0 +1,1 @@
+Download the dataset from the link given in the instructions, unzip it and place in the data/ folder.
