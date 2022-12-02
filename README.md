@@ -3,13 +3,13 @@
 A financial crime is an activity committed by an individual or group of individuals that involves illegal conversion of the property’s ownership from one to another.
 
 ## Requirements
-python>=3.8.0
-numpy=1.23.1
-pandas=1.4.3
-scikit-learn=1.1.1
-xgboost=1.6.1
-imblearn=0.9.1
-seaborn=0.12.1
+python>=3.8.0 <br/>
+numpy=1.23.1<br/>
+pandas=1.4.3<br/>
+scikit-learn=1.1.1<br/>
+xgboost=1.6.1<br/>
+imblearn=0.9.1<br/>
+seaborn=0.12.1<br/>
 
 ## Installation
 Install JupyterLab or Jupyter Notebook
