@@ -3,7 +3,7 @@
 A financial crime is an activity committed by an individual or group of individuals that involves illegal conversion of the property’s ownership from one to another.
 
 ## Dataset
-Download the dataset from the link below. <br/>
+Download the train and test dataset from the link below. <br/>
 SWIFT Synthetic Dataset: https://drive.google.com/drive/folders/10oPxNSQ4MaJWz3A8im0yj0JIcGCulDY9?usp=sharing
 <br/><br/>
 Place it inside data/ folder and extract it. 
