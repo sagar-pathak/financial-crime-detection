@@ -15,5 +15,5 @@ seaborn=0.12.1<br/>
 Install JupyterLab or Jupyter Notebook
 
 ## How to run?
-Open ipynb file on Jupyter
-Run the notebook file. 
+- Open ipynb file on Jupyter <br/>
+- Run the notebook file. <br/>
