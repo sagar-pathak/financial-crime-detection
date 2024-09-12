@@ -1,6 +1,6 @@
 # Financial Crime Detection
 ## A Machine Learning Approach to Anomalous Financial Transaction Detection using SWIFT synthetic dataset
-A financial crime is an activity committed by an individual or group of individuals that involves illegal conversion of the property’s ownership from one to another. This project aims to classify the fraudulent and non-fraudulent transactions routed over SWIFT network. 
+A financial crime is an activity committed by an individual or group of individuals that involves the illegal conversion of the property’s ownership from one to another. This project aims to classify the fraudulent and non-fraudulent transactions routed over the SWIFT network. 
 
 ## Dataset
 Download the train and test dataset from the link below. <br/>
